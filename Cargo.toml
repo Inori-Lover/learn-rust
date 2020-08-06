@@ -1,5 +1,5 @@
 [package]
-name = "he"
+name = "inori"
 version = "0.1.0"
 authors = ["inori-lover <337938188@qq.com>"]
 edition = "2018"
@@ -8,4 +8,3 @@ edition = "2018"
 
 
 [dependencies]
-ferris-says = "0.1"
